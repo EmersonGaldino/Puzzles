@@ -53,18 +53,13 @@ namespace Combat
 
             } while (showMenu);
 
-
         }
-
-
 
         public static void Fight(Character a, Character b)
         {
             Console.WriteLine("Fighting..");
-
             if (a.Atack >= b.Power)
             {
-
                 b.Atack = b.Power - a.Atack;
                 a.Atack += b.Power;
                 a.Nivel += 1;

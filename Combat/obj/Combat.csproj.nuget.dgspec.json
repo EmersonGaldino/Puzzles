@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Particular\\Estudos\\cloud-of-ashes\\Combat\\Combat.csproj": {}
+    "D:\\Projetos\\Particular\\Estudos\\puzzles\\Combat\\Combat.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Particular\\Estudos\\cloud-of-ashes\\Combat\\Combat.csproj": {
+    "D:\\Projetos\\Particular\\Estudos\\puzzles\\Combat\\Combat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\cloud-of-ashes\\Combat\\Combat.csproj",
+        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\puzzles\\Combat\\Combat.csproj",
         "projectName": "Combat",
-        "projectPath": "D:\\Projetos\\Particular\\Estudos\\cloud-of-ashes\\Combat\\Combat.csproj",
+        "projectPath": "D:\\Projetos\\Particular\\Estudos\\puzzles\\Combat\\Combat.csproj",
         "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\Particular\\Estudos\\cloud-of-ashes\\Combat\\obj\\",
+        "outputPath": "D:\\Projetos\\Particular\\Estudos\\puzzles\\Combat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emers\\AppData\\Roaming\\NuGet\\NuGet.Config",
