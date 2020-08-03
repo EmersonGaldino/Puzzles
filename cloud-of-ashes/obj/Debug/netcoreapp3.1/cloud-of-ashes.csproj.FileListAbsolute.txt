@@ -1,0 +1,13 @@
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\bin\Debug\netcoreapp3.1\cloud-of-ashes.exe
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\bin\Debug\netcoreapp3.1\cloud-of-ashes.deps.json
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\bin\Debug\netcoreapp3.1\cloud-of-ashes.runtimeconfig.json
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\bin\Debug\netcoreapp3.1\cloud-of-ashes.runtimeconfig.dev.json
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\bin\Debug\netcoreapp3.1\cloud-of-ashes.dll
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\bin\Debug\netcoreapp3.1\cloud-of-ashes.pdb
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\obj\Debug\netcoreapp3.1\cloud-of-ashes.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\obj\Debug\netcoreapp3.1\cloud-of-ashes.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\obj\Debug\netcoreapp3.1\cloud-of-ashes.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\obj\Debug\netcoreapp3.1\cloud-of-ashes.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\obj\Debug\netcoreapp3.1\cloud-of-ashes.dll
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\obj\Debug\netcoreapp3.1\cloud-of-ashes.pdb
+D:\Projetos\Particular\Estudos\cloud-of-ashes\cloud-of-ashes\obj\Debug\netcoreapp3.1\cloud-of-ashes.genruntimeconfig.cache

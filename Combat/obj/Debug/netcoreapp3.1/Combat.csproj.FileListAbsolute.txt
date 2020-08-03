@@ -1,0 +1,13 @@
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\bin\Debug\netcoreapp3.1\Combat.exe
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\bin\Debug\netcoreapp3.1\Combat.deps.json
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\bin\Debug\netcoreapp3.1\Combat.runtimeconfig.json
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\bin\Debug\netcoreapp3.1\Combat.runtimeconfig.dev.json
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\bin\Debug\netcoreapp3.1\Combat.dll
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\bin\Debug\netcoreapp3.1\Combat.pdb
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\obj\Debug\netcoreapp3.1\Combat.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\obj\Debug\netcoreapp3.1\Combat.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\obj\Debug\netcoreapp3.1\Combat.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\obj\Debug\netcoreapp3.1\Combat.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\obj\Debug\netcoreapp3.1\Combat.dll
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\obj\Debug\netcoreapp3.1\Combat.pdb
+D:\Projetos\Particular\Estudos\cloud-of-ashes\Combat\obj\Debug\netcoreapp3.1\Combat.genruntimeconfig.cache
