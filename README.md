@@ -7,4 +7,5 @@ em um ambiente inclusivo e colaborativo boas técnicas e metodologias de desenvo
 um pequeno desafio de programação.
 
 
-# Emerson Galdino
+## License
+Emerson Galdino (emersongaldino@hotmail.com)
