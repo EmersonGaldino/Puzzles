@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text.Json.Serialization;
+using Combat.Entity;
 
 namespace Combat
 {
@@ -82,13 +82,5 @@ namespace Combat
             };
         }
 
-        public class Character
-        {
-            public string Name { get; set; }
-            public int Power { get; set; }
-            public int Atack { get; set; }
-            public int Nivel { get; set; }
-            public int Block { get; set; }
-        }
     }
 }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\cloud-of-ashes.csproj": {}
+    "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\Cloud-Of-Ashes.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\cloud-of-ashes.csproj": {
+    "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\Cloud-Of-Ashes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\cloud-of-ashes.csproj",
-        "projectName": "cloud-of-ashes",
-        "projectPath": "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\cloud-of-ashes.csproj",
+        "projectUniqueName": "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\Cloud-Of-Ashes.csproj",
+        "projectName": "Cloud-Of-Ashes",
+        "projectPath": "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\Cloud-Of-Ashes.csproj",
         "packagesPath": "C:\\Users\\emers\\.nuget\\packages\\",
         "outputPath": "D:\\Projetos\\Particular\\Estudos\\puzzles\\cloud-of-ashes\\obj\\",
         "projectStyle": "PackageReference",

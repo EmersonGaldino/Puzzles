@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("cloud-of-ashes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Cloud-Of-Ashes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("cloud-of-ashes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("cloud-of-ashes")]
+[assembly: System.Reflection.AssemblyProductAttribute("Cloud-Of-Ashes")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Cloud-Of-Ashes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

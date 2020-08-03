@@ -11,3 +11,16 @@ D:\Projetos\Particular\Estudos\cloud-of-ashes\FizzBuzz\obj\Debug\netcoreapp3.1\F
 D:\Projetos\Particular\Estudos\cloud-of-ashes\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
 D:\Projetos\Particular\Estudos\cloud-of-ashes\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
 D:\Projetos\Particular\Estudos\cloud-of-ashes\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+D:\Projetos\Particular\Estudos\puzzles\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
